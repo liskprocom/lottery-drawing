@@ -1,2 +1,2 @@
 # lottery-drawing
-lottery drawing script
+new year lottery drawing script
